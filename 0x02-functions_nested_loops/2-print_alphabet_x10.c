@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * prints_alphabets_x10 - prints alphabets 10 times
- * Description: What is this program doing?
- *
+ * print_alphabet_x10 - prints alpha 10 times
+ * Description: print_alphabet_x10
  * Return: 0
  */
 void print_alphabet_x10(void)
