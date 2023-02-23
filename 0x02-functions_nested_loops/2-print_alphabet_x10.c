@@ -2,6 +2,7 @@
 
 /**
  * prints_alphabets_x10 - prints alphabets 10 times
+ * Description: What is this program doing?
  *
  * Return: 0
  */
