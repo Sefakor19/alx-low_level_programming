@@ -5,9 +5,9 @@
  * Description: The function computes the absolute value of an integer
  * Return: The absolute value of number or 0
  */
-int _abs(int)
+int _abs(int c)
 {
-	int c;
+	
 
 	if (c < 0)
 	{
